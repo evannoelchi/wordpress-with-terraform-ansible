@@ -1,1 +1,1 @@
-database_password = "PassWord4-user" //password for user database
+database_password = "admin123" //password for user database

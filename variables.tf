@@ -3,7 +3,7 @@ variable "database_password" {}
 variable "database_user" {}
 
 variable "region" {}
-variable "shared_credentials_file" {}
+variable "shared_credentials_files" {}
 variable "ami" {}
 variable "AZ1" {}
 variable "AZ2" {}
